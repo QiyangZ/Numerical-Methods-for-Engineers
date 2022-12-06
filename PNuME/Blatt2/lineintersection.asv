@@ -1,0 +1,6 @@
+function  lineintersection(P1,P2)
+ k = (P2(2) - P1(2))/(P2(1) - P1(1));
+% x = 0: 1 : 10e5;
+% y = k*x + 1;
+% plot(x,y);
+end
