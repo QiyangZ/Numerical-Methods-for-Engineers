@@ -1,6 +1,6 @@
 # Numerical-Methods-for-Engineers
 
-there is a course from TUM "A Practical Course in Numerical Methods for Engineers", which has introducted several numerical methods and implemented them through Matlab. "Blatt" is a germany word means task list.
+there is a course from TUM named "A Practical Course in Numerical Methods for Engineers", which has introducted several numerical methods and implemented them through Matlab. "Blatt" is a germany word means task list.
 These numertical methods are: 
 1. `Basic knowlege of matrix in Matlab` `a way of 3d-plot`
 2. `Calculation accuracy, interpolation and curve fitting`
